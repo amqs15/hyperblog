@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 Holi! :) BanAnita
 Adiosh!
 
 boli
-=======
+
 Holi! :)
 
 Despues del checkout
->>>>>>> cabecera
+
